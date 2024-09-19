@@ -40,6 +40,7 @@ class Jonkler(QMainWindow):
                 font-weight: bold;
                 border: 2px solid black;
                 padding: 10px 20px;
+                border-radius: 20px;
             }
             #button:hover {
                 background-color: #7a7777;
